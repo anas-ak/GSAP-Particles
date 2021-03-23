@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  overflow: hidden;
+  background: black;
+}
+
+span {
+  position: absolute;
+  width: 5px;
+  height: 5px;
+  background: red;
+  border-radius: 50%;
+  mix-blend-mode: screen;
+}
+/*# sourceMappingURL=styles.css.map */
